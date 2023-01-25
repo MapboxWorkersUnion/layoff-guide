@@ -13,5 +13,5 @@ Mapbox, in particular, has left the authors of this guide with little informatio
 ---
 
 # Contained in this guide:
-# 1. [Acessing Healthcare](healthcare.md)
+# 1. [Accessing Healthcare](healthcare.md)
 # 2. [Filing for Unemployment Income](unemployment.md)
