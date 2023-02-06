@@ -6,18 +6,18 @@
 
 ## Contents
 ### 1. [The unique challenge of unemployment](#the-unique-challenge-of-unemployment)
-    - [Acceptance](#acceptance)
+- [Acceptance](#acceptance)
 ### 2. [What the research says about mental health during unemployment](#what-the-research-says-about-mental-health-during-unemployment)
-    - [Normalizing unemployment as neutral or potentially positive plays a role in lasting positive mental health](#1-normalizing-unemployment-as-neutral-or-potentially-positive-plays-a-role-in-lasting-positive-mental-health)
-      - [What is Normalization?](#what-is-normalization)
-      - [How does it apply here?](#how-does-it-apply-here)
-      - [Normalization as a coping skill](#normalization-as-a-coping-skill)
-    - [Your emotional response to job loss may differ daily. Expect to rely on different coping skills at various stages during unemployment](#2-your-emotional-response-to-job-loss-may-differ-daily-expect-to-rely-on-different-coping-skills-at-various-stages-during-unemployment)
-      - [What are coping skills?](#what-are-coping-skills)
+- [Normalizing unemployment as neutral or potentially positive plays a role in lasting positive mental health](#1-normalizing-unemployment-as-neutral-or-potentially-positive-plays-a-role-in-lasting-positive-mental-health)
+    - [What is Normalization?](#what-is-normalization)
+    - [How does it apply here?](#how-does-it-apply-here)
+    - [Normalization as a coping skill](#normalization-as-a-coping-skill)
+- [Your emotional response to job loss may differ daily. Expect to rely on different coping skills at various stages during unemployment](#2-your-emotional-response-to-job-loss-may-differ-daily-expect-to-rely-on-different-coping-skills-at-various-stages-during-unemployment)
+    - [What are coping skills?](#what-are-coping-skills)
 ### 3. [Strategies that I've used to keep my mental health more stable while unemployed](#strategies-that-ive-used-to-keep-my-mental-health-more-stable-while-unemployed)
-    - [The first few weeks](#the-first-few-weeks)
-    - [The time in the middle](#the-time-in-the-middle)
-    - [At the end](#at-the-end)
+- [The first few weeks](#the-first-few-weeks)
+- [The time in the middle](#the-time-in-the-middle)
+- [At the end](#at-the-end)
 ---
 
 ## The unique challenge of unemployment
