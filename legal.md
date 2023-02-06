@@ -1,4 +1,4 @@
-# Layoffs and Legal Concerns
+ # Layoffs and Legal Concerns
 # Contents
 ### 1. [General Information](#general-information)
 - [This is not legal advice](#this-is-not-legal-advice)
