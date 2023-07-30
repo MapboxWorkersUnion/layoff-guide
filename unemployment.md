@@ -13,7 +13,7 @@
 - [What information will I need to file for my weekly claim?](#what-information-will-i-need-to-file-for-my-weekly-claim)
 - [Anything else I should know about the application process?](#anything-else-i-should-know-about-the-application-process)
 
-### 3. [Receiving Benefits](#receiving-benefits)
+### 3. [Receiving Income](#receiving-income)
 - [How will I receive my Unemployment Income?](#how-will-i-receive-my-unemployment-income)
 - [How much will I collect?](#how-much-will-i-collect)
 - [Anything Else I should know?](#anything-else-i-should-know)
@@ -74,19 +74,21 @@ Each state's questions and requirements may be a little different, but generally
 
 ## Anything else I should know about the application process?
 
-- Depending on your state's requirements, you may have to submit proof of your ongoing job search in the form of web addresses, phone numbers, email addresses, etc. It's best to keep this information in a spreadsheet for your records and to make the weekly claim as easy as possible.
+- Depending on your state's requirements, you may have to submit proof of your ongoing job search through web addresses, phone numbers, email addresses, etc. It's best to keep this information in a spreadsheet for your records and to make the weekly claim as easy as possible.
   
 - Most states have a 'verification' process where a Department of Labor employee calls to ask you for additional information about your application. 
 
-- Sometimes former employers can challenge your unemployment claim. Employers can be penalized or asked to pay higher taxes if too many former employees file claims 'against' them. Ultimately, employers can't deny a claim. The state department of labor makes the final decision. If you are rejected for Unemployment Income, you have the right to appeal that decision.
+- Sometimes, former employers can challenge your unemployment claim. Employers can be penalized or asked to pay higher taxes if too many former employees file claims 'against' them. Ultimately, employers don't have the unilateral authority to _deny_ a claim. The state Department of Labor makes the final decision. If you are rejected for Unemployment Income, you can appeal that decision.
 
-- If you did receive severance from your employer, _particularly_ in the form of a lump-sum payment, most states would allow you to file for unemployment income the following week after you receive your pay. Make sure this is true for your state. You do still need to accurately report your severance pay on your application.
+- Often, you will hear the advice to "force your employer to fire you, rather than quitting" to preserve your right to unemployment income. While that general rule of thumb isn't incorrect, being fired doesn't automatically allow you to collect unemployment income (employers can still claim misconduct, for example, which may be a 'justified' firing and may result in you being ineligible for receiving unemployment income), but other times you may still be eligible for unemployment income even when you do quit. 
+
+- If you did receive severance from your employer, _particularly_ in the form of a lump-sum payment, most states would allow you to file for unemployment income the following week after you receive your pay. Make sure this is true for your state. You do still need to report your severance pay on your application accurately.
 
   -   For example, if you received '5 weeks' of severance as a lump-sum payment, you do _not_ need to wait five weeks to file for unemployment income. You can file the following week after receiving your severance.
 
 ---
 
-# Receiving Benefits
+# Receiving Unemployment Income
 
 ## How will I receive my Unemployment Income?
 
@@ -97,9 +99,11 @@ Most states will directly deposit income into your checking account each week; s
 It varies slightly from state to state, but you can (on average) collect for up to 26 weeks in a row.
 
 ## How much will I collect?
-Again, this amount varies quite a bit from state to state. Generally, states use something called a 'base period' -- essentially a 3-month period, and they look at your highest earnings from 2 base periods of (roughly) the past year to calculate your unemployment income (a percentage of your highest quarterly earnings). There are some alternative methods used to calculate income if needed.
+Again, this amount varies quite a bit from state to state. Generally, states use a 'base period' -- essentially a 3-month period, and they look at your highest earnings from 2 base periods of (roughly) the past year to calculate your unemployment income (a percentage of your highest quarterly earnings). There are some alternative methods used to calculate income if needed.
 
 ## Anything Else I should know?
 
-- Unemployment Income is taxable and _must_ be reported as gross income on your federal taxes. You may elect beforehand to have state and federal taxes deducted from your weekly unemployment income. You will be mailed a 1099G for the calendar year you collected income.
+- Unemployment Income is taxable and _must_ be reported as gross income on your federal taxes. You may elect to have state and federal taxes deducted from your weekly unemployment income beforehand. You will be mailed a 1099G for the calendar year you collected income.
 - You can collect unemployment income multiple times in your life. You are not limited by the number of times you can collect; you need to have worked at any time in the past 18 months. 
+
+- Many states have requirements about the minimum period that you must have worked in that state to receive unemployment from the state (usually 12-18 months). Remember that if you worked in another state, you may also "roll-together" your work experience in a combined wage claim. It is a good idea to look at the maximum benefit amount in the states where you did work and file with that state.
